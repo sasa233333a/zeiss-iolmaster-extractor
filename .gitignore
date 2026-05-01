@@ -1,0 +1,33 @@
+# Patient data and generated outputs
+*.pdf
+*.PDF
+*.csv
+*.xlsx
+*.xls
+*.zip
+*.7z
+*.rar
+*.exe
+*.dll
+*.log
+
+# Local output folders
+ZEISS_分选提取结果/
+a超报告/
+非a超报告/
+IOL Master 700报告/
+非IOL Master 700报告/
+
+# Go build outputs
+*.test
+*.out
+/build/
+/dist/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep source and docs only by default
