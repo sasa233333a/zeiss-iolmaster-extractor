@@ -1,5 +1,5 @@
 module mytool
 
-go 1.20
+go 1.25.6
 
-require github.com/ledongthuc/pdf v0.0.0-20220302134840-0c2507a12d80
+require github.com/ledongthuc/pdf v0.0.0-20250511090121-5959a4027728 // indirect
